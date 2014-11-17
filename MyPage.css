@@ -1,0 +1,121 @@
+.SignLog {
+ color: blue;
+ font-size:20px;
+ font-weight:bold;
+ float: left;
+ padding-right: 10px;
+ position:relative;
+ left: 50px;
+}
+
+.Basket {
+ color: red;
+ font-size: 20px;
+ font-weight:bold;
+ float: right;
+ padding-right: 10px;
+ position:relative;
+ right: 50px;
+}
+
+#UpYellow{
+	margin: 0px 0px 0px 0px;
+	background:#F8F8F8;
+	height: 20px;
+	width:auto;
+}
+
+.Disk{
+	color: black;
+	font-weight:bold;
+	padding: 10px 10px 10px 10px;
+	margin:50px 200px 0px 30px;
+	position:relative;
+ 	top: 80px;
+}
+#DiskId{
+	margin: 50px 0px 0px 50px;
+	background: #F8F8F8;
+	width: 300px;
+	height: 500px;
+}
+body div.fancy-diskImg img{
+	width: 500px;
+	display:block;
+	margin:auto;
+	position:relative;
+ 	top: -450px;
+ 	
+}
+#DiskTextID{
+	position:relative;
+ 	top: -900px;
+ 	right: 100px;
+}
+.DiskText{
+	font-size:20px;
+ 	font-weight:bold;
+ 	text-align: right;
+}
+
+.UDisk{
+	position:relative;
+	top: -500px;
+}
+.UDiskTitle{
+	border-bottom:1px solid black;
+	font-weight:bold;
+	font-size: 20px;
+}
+p.DiskText1{
+	padding-left: 200px;
+	font-size:20px;
+ 	font-weight:bold;
+}
+span.DiskText2{
+	padding-left: 300px;
+	font-size:20px;
+ 	font-weight:bold;
+}
+span.DiskText3{
+	font-size:20px;
+ 	font-weight:bold;
+	padding-left: 300px;
+}
+p.UImg img
+{
+	width: 300px;
+	padding-left: 100px;
+}
+p.UDiskB{
+	font-size:20px;
+ 	font-weight:bold;
+}
+span.UDiskBText1{
+	padding-left: 120px;
+}
+span.UDiskBText2{
+	padding-left: 220px;
+}
+span.UDiskBText3{
+	padding-left: 180px;
+}
+div.BottomImg img{
+	width: 50%;
+	height: 300px;
+	float:right;
+}
+body div.BottomImg{
+	height:400px;
+	background:#F8F8F8;
+	margin-bottom: 10px;
+}
+body div.BottomImg h1{
+	padding-left:5%;
+}
+body div.BottomImg h2{
+	padding-left:10%;
+}
+body div.BottomImg h1 span{
+	padding-left: 36%;
+}
